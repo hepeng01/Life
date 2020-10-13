@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,0G;AACAA,UAAU,CAACC,eAAD,CAAV,C","file":"pages/tabbar/tabbar-5/tabbar-5.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/tabbar/tabbar-5/tabbar-5.vue'\ncreatePage(Page)"],"sourceRoot":""}
